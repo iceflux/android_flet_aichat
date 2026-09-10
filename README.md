@@ -1,6 +1,11 @@
+English | [Русский](README.ru.md)
+
 # AIChat
 
-English | [Русский](README.ru.md)
+![Python](https://img.shields.io/badge/python-3.x-blue?logo=python)
+![Flet](https://img.shields.io/badge/framework-Flet-teal)
+![Platform](https://img.shields.io/badge/platform-Android-green?logo=android)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 Chat app for OpenRouter.ai written in Python (Flet). Builds into an
 Android APK right on GitHub Actions - no local Android SDK, JDK, or macOS
