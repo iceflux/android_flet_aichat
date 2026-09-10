@@ -11,6 +11,8 @@
 Собирается в APK для Android прямо на GitHub Actions - без локальной установки
 Android SDK, JDK и macOS.
 
+Двойной проект: то же приложение реализовано на Flutter (Dart) - см. [android_flutter_aichat](https://github.com/z123p2/android_flutter_aichat).
+
 ## Возможности
 
 - Чат с 200+ моделями OpenRouter (включая бесплатные `:free` модели)

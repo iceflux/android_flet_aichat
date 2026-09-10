@@ -11,6 +11,8 @@ Chat app for OpenRouter.ai written in Python (Flet). Builds into an
 Android APK right on GitHub Actions - no local Android SDK, JDK, or macOS
 required.
 
+Twin project: the same app implemented in Flutter (Dart) - see [android_flutter_aichat](https://github.com/z123p2/android_flutter_aichat).
+
 ## Features
 
 - Chat with 200+ OpenRouter models (including free `:free` models)
